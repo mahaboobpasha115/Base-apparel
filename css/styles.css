@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.ab{
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;  
+}
+
+.xy{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-top: 30px;
+}
+.mn{
+    text-align: center;
+    margin-top: 20px;
+    color:hsl(0, 36%, 70%) ;
+    
+}
+.xy span{
+    color:hsl(0, 36%, 70%) ;
+    font-weight: lighter;
+}
+#www{
+    margin-top: 10px;
+    width:80%;
+    height: 35px;
+    border-radius: 30px;
+    text-align: center;
+    position: absolute;
+    left: 30px;
+    
+
+    
+}
+.xxx{
+    border-radius: 12px;
+    width: 30px;
+    height: 35px;
+    position:absolute;
+    top: 68%;
+    right: 10%;
+    background-color:hsl(0, 36%, 70%) ;
+}
+
+ 
